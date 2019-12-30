@@ -1,1 +1,1 @@
-# Container for SCIP Optimization Suite
+# Docker container for SCIP Optimization Suite
